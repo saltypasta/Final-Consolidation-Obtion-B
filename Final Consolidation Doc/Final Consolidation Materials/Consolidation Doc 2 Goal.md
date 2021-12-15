@@ -1,0 +1,4 @@
+
+## Changes I'm making moving forward
+- Try *again* to reach out on discord more. I was successful in using hypothes.is more, and referencing discord, but I would like to see myself reach out with a problem at least once or twice for the next module. 
+- Explaining what I was doing to my Fiance was a great way to test my comprehension of the material. Initially her eyes glazed over, but once she saw the turtles moving in week 7 her interest was piqued. She also had some great questions about how things worked (Like the turtles moving, I broke down the pseudo code that defined their movement) or why these things were useful (I explained how agent based models could test a hypothesis about human migration patterns). If shes up for it, Id like to give her a verbal mini-consolidation of my weekly work. And if shes not up for it, maybe my 14 month old will be. And if he's not up for it, my dog should listen. If all else fails, I do have fish...
