@@ -71,7 +71,7 @@ For this section, I will discuss some of my big takeaways from the course as a w
 
 
 
-On a final note, I would like to say thank you for an awesome semester. I really enjoyed learning about digital archaeology, and I believe this class provided me with an excellent foundation for how to think about not only archaeology, but about all new ideas. When I think back to when I started crafting digital history in the summer term, and where I am now, I realize I have gained so much from this course. The amount of deeper, meaningful reflection I have done between both courses is very valuable to me. With that said, I want to say thank you for the opportunity to learn from you. Hopefully we cross paths again in the future!
+On a final note, I would like to say thank you for an awesome semester. I really enjoyed learning about digital archaeology, and I believe this class provided me with an excellent foundation for how to think about not only archaeology, but about all new ideas. When I think back to when I started crafting digital history in the summer term, and where I am now, I realize I have gained so much from these courses. The amount of deeper, meaningful reflection I have done between both courses is not only valuable but rewarding. With that said, I want to say thank you for the opportunity to learn from you. Hopefully we cross paths again in the future!
 
 Cheers,
 
